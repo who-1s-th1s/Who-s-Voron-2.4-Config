@@ -5,7 +5,9 @@ This is my Voron 2.4r2, started building in September 2023. This started with a 
 
 Specs and mods:
 Octopus v1.1
+
 BTT pi
+
 Mellow UTOC
 Mellow Flysht36v2
 BTT 5in touchscreen
